@@ -1,5 +1,1 @@
-# Arma-3-HALO-Jump
-///// INSTRUCTIONS 
-// 1. In your Mission Folder create a "script" folder and Paste the Code
-// 2. In a Object Init or in your mission root paste the Inizializaton of the Script
-// 3. Select a plane, copy its class name and you're done.
+Hey, thanks for being here! I originally made this script for my own use, but after looking online i realized there wasn't script with such capabilities, so i decided to make one myself, you can hit me up on discord @retricss for anything.
