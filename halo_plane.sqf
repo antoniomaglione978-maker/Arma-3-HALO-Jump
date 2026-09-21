@@ -1,7 +1,7 @@
 // Arma 3 HALO Jump Script!
 // Follow these steps for installation
 // 1. In your Mission root, create a folder named "scripts" <---- must be lowercase
-// 2. Paste the code down below and name it "halo_plane.sqf"
+// 2. Paste the code down below and name it "halo_plane.sqf" and edit the config to your liking, reccomend using planes that can transport passengers
 // 3. In a Object Init paste the Inizialization Script 
 // 4. Have Fun
 
@@ -11,7 +11,7 @@
 params ["_target", "_caller", "_actionId", "_arguments"];
 
 // ================== CONFIG ==================
-private _planeClass   = "";   // ← Change plane here
+private _planeClass   = "";   // ← Change plane here (plane Class)
 private _altitude     = 2000;                       // Jump height
 private _approachDist = 0;                       // Distance before DZ
 private _flySpeed     = 90;                         // Plane speed
