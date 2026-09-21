@@ -1,0 +1,11 @@
+// Put this code where you would like the players to be able to start the jump
+
+
+this addAction [ 
+    "<t color='#00FFFF'>HALO Jump (Map Select + AI)</t>", 
+    "scripts\halo_plane.sqf", 
+    nil, 1.5, true, true, "", 
+    "alive _this" 
+];
+
+// That's it Enjoy
